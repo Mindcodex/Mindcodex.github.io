@@ -56,7 +56,7 @@
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
 <p>
-    <a href="https://github.com/matheusfelipeog" target="_blank">
+    <a href="https://github.com/Mindcodex/Mindcodex.github.io" target="_blank">
         <img src="https://img.shields.io/badge/-Github-000?logo=github&style=for-the-badge&logoColor=white" alt="Bradge Github" />
     </a>
     <!-- <a href="https://t.me/matheusfelipeog" target="_blank">
