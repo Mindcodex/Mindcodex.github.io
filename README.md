@@ -15,32 +15,40 @@
 <br></br>
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>  Skills</b> 
 
-<div style = 'display: flex; justify-content: space-between;'>
-    <div>  
-        <h3 align = 'center' style = 'color: #00ccff'>Frontend Developer </h3>
-        <p align="center">
-            <a href="https://skillicons.dev">
-                <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,svelte,astro&perline=2" />
-            </a>
-        </p>
-    </div>
-    <div>
-        <h3 align="center" style = 'color: #ff55ff'>Backend Developer</h3>
-        <p align="center" >
-            <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=nodejs,express,ts,sqlite,prisma&perline=2" />
-            </a>
-        </p>
-   </div>
-    <div>
-        <h3 align="center" style = 'color: #ff4455' >Desktop Developer</h3>
-        <p align="center" >
-            <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=tauri,rust,ts,react,svelte&perline=2" />
-            </a>
-        </p>
-    </div>
-</div>
+<table>
+    <tr>
+        <td valing='top' width= '33%'>
+            <div>  
+                <h3 align = 'center' style = 'color: #00ccff'>Frontend Developer </h3>
+                <p align="center">
+                    <a href="https://skillicons.dev">
+                        <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,svelte,astro&perline=2" />
+                    </a>
+                </p>
+            </div>
+        </td>
+        <td valing='top' width ='33%'>
+            <div>
+                <h3 align="center" style = 'color: #ff55ff'>Backend Developer</h3>
+                <p align="center" >
+                    <a href="https://skillicons.dev">
+                    <img src="https://skillicons.dev/icons?i=nodejs,express,ts,sqlite,prisma&perline=2" />
+                    </a>
+                </p>
+            </div>
+        </td>
+        <td valing='top' width = '33%'>
+            <div>
+                <h3 align="center" style = 'color: #ff4455' >Desktop Developer</h3>
+                <p align="center" >
+                    <a href="https://skillicons.dev">
+                    <img src="https://skillicons.dev/icons?i=tauri,rust,ts,react,svelte&perline=2" />
+                    </a>
+                </p>
+            </div>
+        </td>
+    </tr>
+</table>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
