@@ -62,7 +62,7 @@
     <!-- <a href="https://t.me/matheusfelipeog" target="_blank">
         <img src="https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&style=for-the-badge&logoColor=white" alt="Bradge Telegram" />
     </a> -->
-    <a href="https://www.linkedin.com/in/matheusfelipeog" target="_blank">
+    <a href="www.linkedin.com/in/marcosquiroga22" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white" alt="Bradge LinkedIn" />
     </a>
     <a href="mailto:matheusfelipeog@protonmail.com" target="_blank">
