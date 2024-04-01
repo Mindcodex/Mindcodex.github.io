@@ -15,9 +15,9 @@
 <br></br>
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>  Skills</b> 
 
-<table>
+<table align='center' style= 'border: none;' >
     <tr>
-        <td valing='top' width= '33%'>
+        <td valign='top' >
             <div>  
                 <h3 align = 'center' style = 'color: #00ccff'>Frontend Developer </h3>
                 <p align="center">
@@ -27,7 +27,7 @@
                 </p>
             </div>
         </td>
-        <td valing='top' width ='33%'>
+        <td valign='top' >
             <div>
                 <h3 align="center" style = 'color: #ff55ff'>Backend Developer</h3>
                 <p align="center" >
@@ -37,7 +37,7 @@
                 </p>
             </div>
         </td>
-        <td valing='top' width = '33%'>
+        <td valign='top' >
             <div>
                 <h3 align="center" style = 'color: #ff4455' >Desktop Developer</h3>
                 <p align="center" >
